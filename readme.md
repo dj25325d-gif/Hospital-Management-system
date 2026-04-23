@@ -229,7 +229,4 @@ To further bridge the gap between this database model and a full-stack applicati
 ## 👤 Author
 
 **Dushyant**
-```
-_SQL | Data | Backend Systems_
-```
-⭐ **If you like this project, please give it a ⭐ on GitHub!**
+
