@@ -119,28 +119,36 @@ This project highlights deep backend data logic skills, analytical thinking, and
 ### 🗄️ Basic Operations (Insert, Update, Delete)
 _Demonstrating the fundamental manipulation of database records._
 <p align="center"> 
-  <img src="screenshots/sc1(5).png" width="45%" alt="Basic Ops 1"> 
-  <img src="screenshots/sc2(5).png" width="45%" alt="Basic Ops 2"> 
+  <img src="screenshots/sc1.png" width="45%" alt="Basic Ops 1"> 
+</p>
+<p align="center"> 
+  <img src="screenshots/sc2.png" width="45%" alt="Basic Ops 2"> 
 </p>
 
 ### 🔍 Filtering & Aggregations
 _Extracting specific data subsets and grouping information._
 <p align="center"> 
-  <img src="screenshots/sc3(6).png" width="45%" alt="Filtering 1"> 
-  <img src="screenshots/sc4(2).png" width="45%" alt="Filtering 2"> 
+  <img src="screenshots/sc3.png" width="45%" alt="Filtering 1"> 
+</p>
+<p align="center"> 
+  <img src="screenshots/sc4.png" width="45%" alt="Filtering 2"> 
 </p>
 
 ### 📊 Query Results & Conditions
 _Applying specific rules and conditions to extract meaningful insights._
 <p align="center"> 
-  <img src="screenshots/sc5(2).png" width="45%" alt="Query Results 1"> 
-  <img src="screenshots/sc6(1).png" width="45%" alt="Query Results 2"> 
+  <img src="screenshots/sc5.png" width="45%" alt="Query Results 1"> 
+</p>
+<p align="center"> 
+  <img src="screenshots/sc6.png" width="45%" alt="Query Results 2"> 
 </p>
 
 ### 🔗 Joins & Relationships
 _Stitching relational data back together to form comprehensive views._
 <p align="center"> 
   <img src="screenshots/sc7.png" width="45%" alt="Joins 1"> 
+</p>
+<p align="center"> 
   <img src="screenshots/sc8.png" width="45%" alt="Joins 2"> 
 </p>
 
@@ -148,6 +156,8 @@ _Stitching relational data back together to form comprehensive views._
 _Executing complex, multi-layered SQL statements._
 <p align="center"> 
   <img src="screenshots/sc9.png" width="45%" alt="Advanced 1"> 
+</p>
+<p align="center"> 
   <img src="screenshots/sc10.png" width="45%" alt="Advanced 2"> 
 </p>
 
@@ -218,6 +228,8 @@ To further bridge the gap between this database model and a full-stack applicati
 <a id="author"></a>
 ## 👤 Author
 
-**Dushyant** _SQL | Data | Backend Systems_
-
+**Dushyant**
+```
+_SQL | Data | Backend Systems_
+```
 ⭐ **If you like this project, please give it a ⭐ on GitHub!**
